@@ -1,7 +1,7 @@
-UIDev-substrate
+Photo App
 ===============
 
-Clone this repo and create a responsive image gallery using the gallery.json file for data. Include and/or create what ever other resources you may need then submit a pull request. 
+Clone this repo and create a responsive image gallery. You can use the [Pokéapi](https://pokeapi.co/) or any API of your choosing for data. Include and/or create what ever other resources you may need then submit a pull request. 
 
 Make sure to document your decision process in your code and elaborate on challenges and solutions in your commit messages and pull requests.
 
